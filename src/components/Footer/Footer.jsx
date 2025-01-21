@@ -44,7 +44,7 @@ const Footer = () => {
       </div>
       <div className="bottom">
         <div className="left">
-          <span className="logo">STORE</span>
+          <span className="logo">SHOOE</span>
           <span className="copyright">
             &copy; {new Date().getFullYear()}, All Rights Reserved
           </span>

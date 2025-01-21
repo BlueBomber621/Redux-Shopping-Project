@@ -11,6 +11,8 @@ const List = ({ categoryId, maxPrice, sort, subCategories }) => {
     )}&filters[price][$lte]=${maxPrice}&sort=price:${sort}`
   );
 
+  console.log(data)
+
   return (
     <div className="list">
       {loading

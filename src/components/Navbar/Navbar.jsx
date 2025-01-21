@@ -43,7 +43,7 @@ const Navbar = () => {
         </div>
         <div className="center">
           <Link to="/" className="link">
-            STORE
+            SHOOE
           </Link>
           {/* Add logo */}
         </div>
@@ -59,7 +59,7 @@ const Navbar = () => {
             </Link>
           </div>
           <div className="item">
-            <Link to="/" className="link">
+            <Link to="/contact" className="link">
               Contact
             </Link>
           </div>
